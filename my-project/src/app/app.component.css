@@ -1,0 +1,31 @@
+.te-basic-tools .angular-editor-button[title="Subscript"],
+.te-basic-tools .angular-editor-button[title="Superscript"],
+.te-basic-tools .angular-editor-button[title="Text Color"] {
+   display: none;
+}
+.staticTextBox{
+    readOnly: true;
+}
+.checkbox{
+    type: checkbox;
+}
+.nrkbackground  {
+    background-image: url(http://localhost:51674/images/77f302c2-30e5-46ac-ab47-dc3438d75da3.jpg);
+    background-repeat: repeat-y;
+}
+.nrkbackground1  {
+   
+    background:
+      url("http://localhost:51674/images/dbd32fdc-afbf-4df5-a754-360c8bc7d841.jpg");
+}
+.container {
+    position: relative;    
+}
+
+.text-block {
+    position: absolute;    
+    right: 00px;
+    top:00px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
